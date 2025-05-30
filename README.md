@@ -52,19 +52,19 @@ This project explores the relationship between weather conditions and retail sal
 ## 📊 Visualizations & Interpretations
 
 **1. Daily Sales Over Time**  
-![Line plot](plots/daily_sales.png)  
+![Line plot](plots/Unknown-2.png)  
 📌 *Interpretation*: Highlights fluctuations in daily sales — useful for spotting trends and outliers.
 
 **2. Total Sales by Season**  
-![Boxplot](plots/sales_by_season.png)  
+![Boxplot](plots/Unknown-3.png)  
 📌 *Interpretation*: Spring showed higher median sales, but differences were not statistically significant (p > 0.05).
 
 **3. Temperature vs Total Sales**  
-![Scatter plot](plots/temperature_vs_sales.png)  
+![Scatter plot](plots/Unknown-4.png)  
 📌 *Interpretation*: Positive trend — higher temperatures tend to correlate with increased sales.
 
 **4. Correlation Matrix**  
-![Heatmap](plots/correlation_matrix.png)  
+![Heatmap](plots/Unknown-5.png)  
 📌 *Interpretation*: `tavg` shows a positive correlation with `total_sales`; precipitation shows a slight negative effect.
 
 ## ✅ Hypothesis Testing
